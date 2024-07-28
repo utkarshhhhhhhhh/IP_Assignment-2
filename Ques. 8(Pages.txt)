@@ -1,0 +1,6 @@
+URL00,0.1,This has reference to URL03,URL02,URL05
+URL03,0.4,This has reference to URL01,URL05
+URL05,0.3, This has reference to URL09,URL01,URL00,URL02,URL07
+URL02,0.6, This has reference to URL08,URL07
+URL07,0.8, This has reference to URL00,URL03,URL01
+URL01,0.5, This has reference to URL00,URL02
